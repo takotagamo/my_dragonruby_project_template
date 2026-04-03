@@ -1,0 +1,5 @@
+build/
+errors/
+tmp/
+log/
+*.exe
