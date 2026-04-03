@@ -1,0 +1,5 @@
+devid=tagamo
+devtitle=takeo tagamo
+gameid=my_proj_template
+gametitle=my proj template
+version=0
